@@ -1,0 +1,2 @@
+# LiveTalkZinraiFAQSample
+LiveTalkの発話内容をZinraiFAQと連携してFAQ検索を行い、その結果をLiveTalkに表示するサンプル
