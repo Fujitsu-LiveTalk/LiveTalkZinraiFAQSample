@@ -1,6 +1,6 @@
 # LiveTalkZinraiFAQSample
 LiveTalk常時ファイル出力で出力したテキストを、Zinrai FAQ検索 をFAQを検索し、その結果をLiveTalk画面に表示するサンプルです。  
-本サンプルコードは、.NET Core 2.2で作成しています。コードレベルでは.NET Framework 4.6と互換性があります。
+本サンプルコードは、.NET Core 3.0で作成しています。コードレベルでは.NET Framework 4.6と互換性があります。
 
 ![Process](https://github.com/FujitsuSSL-LiveTalk/LiveTalkZinraiFAQSample/blob/images/README.png)
 
