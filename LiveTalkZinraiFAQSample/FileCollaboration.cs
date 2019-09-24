@@ -7,7 +7,7 @@ using System.IO;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LiveTalkZinraiFAQSample
+namespace LiveTalk
 {
     internal class FileCollaboration
     {
